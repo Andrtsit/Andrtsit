@@ -27,8 +27,8 @@ I'm a 28-year-old junior web developer transitioning from a background in Histor
 | Project               | Description                                                                            | Live Demo                                                |
 | --------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------- |
 | **QR Code Generator** | Generate and download custom QR codes using React & Vite                               | [View Demo](https://andrtsit.github.io/QrCodeGenerator/) |
-| **Sketch-It**         | Etch-a-Sketch clone with adjustable grid and clear feature (Vanilla JS)                | [View Demo](https://andrtsit.github.io/Sketch-it/)       |
-| **Match Cards**       | Memory card matching game with move counter and reset (Vanilla JS)                     | [View Demo](https://andrtsit.github.io/Match-cards/)     |
+| **Sketch-It**         | Simple etch-a-sketch with adjustable grid and clear feature (Vanilla JS)               | [View Demo](https://andrtsit.github.io/Sketch-It/)       |
+| **Match Cards**       | Memory card matching game                                                              | [View Demo](https://andrtsit.github.io/Match-cards/)     |
 
 ---
 
