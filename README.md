@@ -19,7 +19,7 @@ I am 28 years old, right now living in Greece, and I speak English(C2),French(B2
 * **Frontend:** HTML , CSS(+Sass) , Vanilla JS , React JS ,Tailwind 
 * **Tools:** Git & GitHub, Unix/Linux, npm/yarn 
 * **Design:** Basic UI/UX principles, Figma
-* **Other:** APIs, Supabase for backend & authentication
+* **Other:** APIs,Vite, Supabase (for backend and user authentication/authorisation)
 
 ---
 
