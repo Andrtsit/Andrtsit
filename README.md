@@ -31,6 +31,7 @@ I am 28 years old, right now living in Greece, and I speak English(C2),French(B2
 | **Sketch-It**         | Simple etch-a-sketch with adjustable grid and clear feature (Vanilla JS)               | [View Demo](https://andrtsit.github.io/Sketch-It/)       |
 | **Match Cards**       | Memory card matching game  (Vanilla JS)                                                | [View Demo](https://andrtsit.github.io/Match-cards/)     |
 | **MapZ**              | Live Map + Weather info for cities (Vanilla JS)                                        | [View Demo](https://andrtsit.github.io/MapZ/)            |
+| **DiceGame**          | A simple dice game (PIG) for 2 players (Vanilla JS)                                    | [View Demo](https://andrtsit.github.io/DiceGame/)        |
 
 ---
 
