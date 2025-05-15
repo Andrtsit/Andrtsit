@@ -1,6 +1,7 @@
 ## Hi there, I'm Andreas 👋
 
-I'm a 28-year-old junior web developer transitioning from a background in History & Archaeology to a career in software development. Over the past year, I've immersed myself in web-development, building projects that emphasize clean, maintainable code and a solid understanding of core technologies.
+I'm a junior web developer transitioning from a background in History & Archaeology to a career in software development. Over the past year, I've immersed myself in web-development,studying and building projects that emphasize clean, maintainable code and a solid understanding of core technologies.
+I am 28 years old, right now living in Greece, and I speak English(C2),French(B2) and Greek(Native).
 
 ---
 
@@ -15,7 +16,7 @@ I'm a 28-year-old junior web developer transitioning from a background in Histor
 
 ## 🔧 Skills & Technologies
 
-* **Frontend:** HTML , CSS , Vanilla JS , React JS ,Tailwind 
+* **Frontend:** HTML , CSS(+Sass) , Vanilla JS , React JS ,Tailwind 
 * **Tools:** Git & GitHub, Unix/Linux, npm/yarn 
 * **Design:** Basic UI/UX principles, Figma
 * **Other:** APIs, Supabase for backend & authentication
@@ -45,5 +46,3 @@ I'm a 28-year-old junior web developer transitioning from a background in Histor
 
 
 Feel free to explore my repositories, star a project, or drop me a message. I'm always open to collaboration and new opportunities!
-
--->
