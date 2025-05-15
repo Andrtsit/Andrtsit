@@ -27,7 +27,7 @@ I am 28 years old, right now living in Greece, and I speak English(C2),French(B2
 
 | Project               | Description                                                                            | Live Demo                                                |
 | --------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| **QR Code Generator** | Generate and download custom QR codes using React & Vite                               | [View Demo](https://andrtsit.github.io/QrCodeGenerator/) |
+| **QR Code Generator** | Generate and download custom QR codes (React & Vite)                                   | [View Demo](https://andrtsit.github.io/QrCodeGenerator/) |
 | **Sketch-It**         | Simple etch-a-sketch with adjustable grid and clear feature (Vanilla JS)               | [View Demo](https://andrtsit.github.io/Sketch-It/)       |
 | **Match Cards**       | Memory card matching game  (Vanilla JS)                                                | [View Demo](https://andrtsit.github.io/Match-cards/)     |
 | **MapZ**              | Live Map + Weather info for cities (Vanilla JS)                                        | [View Demo](https://andrtsit.github.io/MapZ/)            |
