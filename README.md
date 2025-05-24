@@ -7,8 +7,8 @@ I am 28 years old, right now living in Greece, and I speak English(C2),French(B2
 
 ## 🚀 About Me
 
-* 🎓 Bachelor’s in History & Archaeology
-* 💻 1 year + of dedicated study in web development
+
+* 💻 1+ year of dedicated study in web development
 * 🌐 Passionate about building beautiful, responsive web apps
 * 🚀 Seeking my first role as a **Junior Web Developer**
 
@@ -19,7 +19,7 @@ I am 28 years old, right now living in Greece, and I speak English(C2),French(B2
 * **Frontend:** HTML , CSS(+Sass) , Vanilla JS , React JS ,Tailwind 
 * **Tools:** Git & GitHub, Unix/Linux, npm/yarn 
 * **Design:** Basic UI/UX principles, Figma
-* **Other:** APIs,Vite, Supabase (for backend and user authentication/authorisation)
+* **Other:** APIs,Vite
 
 ---
 
@@ -27,7 +27,7 @@ I am 28 years old, right now living in Greece, and I speak English(C2),French(B2
 
 | Project               | Description                                                                            | Live Demo                                                |
 | --------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| **QR Code Generator** | Generate and download custom QR codes (React & Vite)                                   | [View Demo](https://andrtsit.github.io/QrCodeGenerator/) |
+| **QR Code Generator** | Generate custom QR codes (React & Vite)                                   | [View Demo](https://andrtsit.github.io/QrCodeGenerator/) |
 | **Sketch-It**         | Simple etch-a-sketch with adjustable grid and clear feature (Vanilla JS)               | [View Demo](https://andrtsit.github.io/Sketch-It/)       |
 | **Match Cards**       | Memory card matching game  (Vanilla JS)                                                | [View Demo](https://andrtsit.github.io/Match-cards/)     |
 | **MapZ**              | Live Map + Weather info for cities (Vanilla JS)                                        | [View Demo](https://andrtsit.github.io/MapZ/)            |
