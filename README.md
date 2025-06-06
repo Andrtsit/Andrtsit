@@ -1,7 +1,7 @@
 ## Hi there, I'm Andreas 👋
 
 I'm a junior web developer transitioning from a background in History & Archaeology to a career in software development. Over the past year, I've immersed myself in web-development,studying and building projects that emphasize clean, maintainable code and a solid understanding of core technologies.
-I am 28 years old, right now living in Greece, and I speak English(C2),French(B2) and Greek(Native).
+
 
 ---
 
