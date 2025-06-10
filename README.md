@@ -11,7 +11,7 @@ I'm a junior web developer transitioning from a background in History & Archaeol
 - 🌐 Fascinated by beautiful, responsive web apps and interactive UI
 - 🧑‍💻 Always eager to learn new tools and frameworks
 - 🚀 Actively seeking a job as a **Junior Web Developer**
-- ✍️ Currently learning: Jest, TypeScript, Next.js, and more advanced React concepts
+
 
 ---
 
@@ -40,7 +40,7 @@ I'm a junior web developer transitioning from a background in History & Archaeol
 - TypeScript
 - Unit testing ( Jest ) 
 - Next.js for server-side rendering and modern React
-- Deeper React patterns (custom hooks, context, etc.)
+- React patterns (custom hooks, context, etc.)
 
 ---
 
