@@ -1,25 +1,26 @@
 ## Hi there, I'm Andreas 👋
 
-I'm a junior web developer transitioning from a background in History & Archaeology to a career in software development. Over the past year, I've immersed myself in web-development,studying and building projects that emphasize clean, maintainable code and a solid understanding of core technologies.
-
+I'm a junior web developer transitioning from a background in History & Archaeology to a career in software development. Over the past year, I've immersed myself in web-development, studying and building projects that emphasize clean, maintainable code.
 
 ---
 
 ## 🚀 About Me
 
 
-* 💻 1+ year of dedicated study in web development
-* 🌐 Passionate about building beautiful, responsive web apps
-* 🚀 Seeking my first role as a **Junior Web Developer**
+- 💻 1+ year of dedicated web development study
+- 🌐 Fascinated by beautiful, responsive web apps and interactive UI
+- 🧑‍💻 Always eager to learn new tools and frameworks
+- 🚀 Actively seeking a job as a **Junior Web Developer**
+- ✍️ Currently learning: Jest, TypeScript, Next.js, and more advanced React concepts
 
 ---
 
 ## 🔧 Skills & Technologies
 
-* **Frontend:** HTML , CSS(+Sass) , Vanilla JS , React JS ,Tailwind 
+* **Frontend:** HTML , CSS , Vanilla JS , React JS ,Tailwind 
 * **Tools:** Git & GitHub, Unix/Linux, npm/yarn 
 * **Design:** Basic UI/UX principles, Figma
-* **Other:** APIs,Vite
+* **Other:** Redux, APIs,Vite,SCSS
 
 ---
 
@@ -31,6 +32,15 @@ I'm a junior web developer transitioning from a background in History & Archaeol
 | **Sketch-It**         | Simple etch-a-sketch with adjustable grid and clear feature (Vanilla JS)               | [View Demo](https://andrtsit.github.io/Sketch-It/)       |
 | **Match Cards**       | Memory card matching game  (Vanilla JS)                                                | [View Demo](https://andrtsit.github.io/Match-cards/)     |
 | **DiceGame**          | A simple dice game (PIG) for 2 players (Vanilla JS)                                    | [View Demo](https://andrtsit.github.io/DiceGame/)        |
+
+---
+
+### 🌱 Currently Learning
+
+- TypeScript
+- Unit testing ( Jest ) 
+- Next.js for server-side rendering and modern React
+- Deeper React patterns (custom hooks, context, etc.)
 
 ---
 
