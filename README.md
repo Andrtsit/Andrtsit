@@ -50,7 +50,7 @@ I'm a junior web developer transitioning from a background in History & Archaeol
 
 ## 📫 Get in Touch
 
-* ✉️  Email: [andreastsitroulis@outlook.com](mailto:andreastsitroulis@outlook.com)
+* ✉️  Email: [andreastsitroulis@gmail.com](mailto:andreastsitroulis@gmail.com)
 * 🔗  LinkedIn: [https://www.linkedin.com/in/andreas-tsitroulis-436465221/](https://www.linkedin.com/in/andreas-tsitroulis-436465221/)
 
 
