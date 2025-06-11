@@ -43,7 +43,6 @@ I'm a junior web developer transitioning from a background in History & Archaeol
 - TypeScript
 - Unit testing ( Jest ) 
 - Next.js for server-side rendering and modern React
-- React patterns (custom hooks, context, etc.)
 
 ---
 
