@@ -28,8 +28,7 @@ I'm a junior web developer transitioning from a background in History & Archaeol
 
 | Project               | Description                                                                            | Live Demo                                                |
 | --------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| **MovieSearch**       | Movie-search web-app using omdbAPI (React & Vite)                                      | [View Demo](https://andrtsit.github.io/MovieSearch/)        |
-| **WeatherMap**        | An interactive map + weather widget (React & Vite )                                    | [View Demo](https://andrtsit.github.io/DiceGame/)        |
+| **MovieSearch**       | Movie-search web-app using omdbAPI (React & Vite)                                      | [View Demo](https://andrtsit.github.io/MovieSearch/)     |
 | **QR Code Generator** | Generate custom QR codes (React & Vite)                                                | [View Demo](https://andrtsit.github.io/QR-Code-Generator/)|
 | **Sketch-It**         | Simple etch-a-sketch with adjustable grid and clear feature (Vanilla JS)               | [View Demo](https://andrtsit.github.io/Sketch-It/)       |
 | **Match Cards**       | Memory card matching game  (Vanilla JS)                                                | [View Demo](https://andrtsit.github.io/Match-cards/)     |
