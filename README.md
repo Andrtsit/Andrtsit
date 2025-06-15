@@ -6,11 +6,11 @@ I'm a junior web developer transitioning from a background in History & Archaeol
 
 ## 🚀 About Me
 
-
+- 🚀 Actively seeking a job as a **Junior Web Developer**
 - 💻 1+ year of dedicated web development study
 - 🌐 Fascinated by beautiful, responsive web apps and interactive UI
 - 🧑‍💻 Always eager to learn new tools and frameworks
-- 🚀 Actively seeking a job as a **Junior Web Developer**
+
 
 
 ---
